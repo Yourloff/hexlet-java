@@ -1,4 +1,4 @@
-package org.palindrome;
+package org.power_of_three;
 
 public class Main {
     public static void main(String[] args) {
